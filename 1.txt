@@ -4,3 +4,4 @@ test 3
 text github
 text develop
 text develop github
+branch_with_conflicts
